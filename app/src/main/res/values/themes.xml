@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GFGDatabaseApp2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/green</item>
+    </style>
+
+    <style name="Theme.GFGDatabaseApp2" parent="Base.Theme.GFGDatabaseApp2" />
+</resources>
